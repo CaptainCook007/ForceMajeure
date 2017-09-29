@@ -1,0 +1,25 @@
+
+
+
+header {text-align: center }
+
+section>*{text-align: center;}
+
+article {
+    
+    color:blue; 
+    background: #008CFF; 
+    font-size: 20px; 
+    border: 15px solid #cccccc ; 
+    padding: 10px; 
+    margin: 20px 0;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.contract-header{
+    
+    font-size: 2em; 
+}
+

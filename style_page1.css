@@ -1,0 +1,14 @@
+
+
+
+
+
+header {text-align: center }
+
+section>*{text-align: center;}
+
+section form div{}
+
+section form input{padding: 10px;margin:10px 0;border-radius: 5px;box-shadow: 0;}
+
+section form button{padding: 10px 20px;background: red;color: white;border: 0;border-radius: 5px;}
